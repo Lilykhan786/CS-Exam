@@ -1,0 +1,1 @@
+# 3. Write a python program to demonstrate the concept of variable length argument to calculate product and power of the first 10 numbers.

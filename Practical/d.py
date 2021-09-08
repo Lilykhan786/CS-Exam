@@ -1,0 +1,1 @@
+# 4. Create a text file “intro.txt” in python and ask the user to write a single line text by user input.

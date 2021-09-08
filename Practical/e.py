@@ -1,0 +1,1 @@
+# 5. Write a program to count a total number of lines and count the total number of lines starting with ‘A’, ‘B’, and ‘C’ from the file dfh.txt.

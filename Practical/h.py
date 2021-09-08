@@ -1,0 +1,1 @@
+# 8. Write a program to store customer data into a binary file cust.dat using a dictionary and print them on screen after reading them. The customer data contains ID as key, and name, city as values.

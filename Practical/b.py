@@ -1,0 +1,1 @@
+# 2. Write a python program to accept username “Admin” as default argument and password 123 entered by user to allow login into the system.

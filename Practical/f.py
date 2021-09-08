@@ -1,0 +1,1 @@
+# 6. Write a programto replace all spaces from text with – (dash) from the file intro.txt.
