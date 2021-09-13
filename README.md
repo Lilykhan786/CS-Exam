@@ -97,6 +97,33 @@ Whereas, the `immutable` objects ***can not*** be changed to its value or state 
 
 ___
 
-### List, Tuple and Dictionary
+### Built-in data types in Python used to store collections of data.
+List, Tuple, Set and Dictionary, all with different qualities and usage.
 
-**`List`** and **`tuple`** is an ordered collection of items. **`Dictionary`** is unordered collection. List and dictionary objects are mutable i.e. it is possible to add new item or delete and item from it. Tuple is an immutable object
+#### Set
+- Sets are used to store multiple items in a single variable.
+- A set is a collection which is both unordered and unindexed.
+- Sets are written with curly brackets. `{}`
+
+#### List
+- Lists are used to store multiple items in a single variable.
+- Lists are created using square brackets. `[]`
+
+
+#### Tuple
+- Tuples are used to store multiple items in a single variable.
+- A tuple is a collection which is ordered and unchangeable.
+- Tuples are written with round brackets. `()`
+
+
+#### Set 
+- Sets are used to store multiple items in a single variable.
+- A set is a collection which is both unordered and unindexed.
+- Sets are written with curly brackets. `{}`
+
+#### Dictionary
+
+- Dictionaries are used to store data values in key:value pairs.
+- A dictionary is a collection which is ordered*, changeable and does not allow duplicates.
+
+**List** and **tuple** is an ordered collection of items. **Dictionary** is unordered collection. List and dictionary objects are mutable i.e. it is possible to add new item or delete and item from it. Tuple is an immutable object
