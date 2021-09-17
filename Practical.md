@@ -5,7 +5,7 @@
 The following programs are given in the suggested program list by CBSE can be used in Term 1 Practical File CS Class 12.
 
 - [x] 1. Read a text file line by line and display each word separated by a #
-- [ ] 2. Read a text file and display the number of vowels/consonants/uppercase/lowercase characters in the file.
+- [x] 2. Read a text file and display the number of vowels/consonants/uppercase/lowercase characters in the file.
 - [ ] 3. Remove all the lines that contain the character ‘a’ in a file and write it to another file.
 - [ ] 4. Create a binary file with the name and roll number. Search for a given roll number and display the name, if not found display the appropriate message.
 - [ ] 5. Create a binary file with roll number, name and marks. Input a roll number and update the marks.
