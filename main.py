@@ -1,5 +1,7 @@
 # To run - import [filename]
 
+import Practical.e
+
 #_______________________________________________
 
 # how to open a file

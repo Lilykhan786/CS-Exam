@@ -1,0 +1,7 @@
+Python is super and trending language.
+Allows to store the output in the files.
+A text file store textual data.
+Binary files can handle binary data.
+Binary files use pickle modele to store data.
+CSV files can handle tabular data.
+CSV files can be read easily using CSV reader object.
