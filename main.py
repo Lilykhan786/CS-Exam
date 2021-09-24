@@ -1,6 +1,6 @@
 # To run - import [filename]
 
-import Practical.h
+import Practical.k
 
 #_______________________________________________
 
