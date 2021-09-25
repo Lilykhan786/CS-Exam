@@ -1,0 +1,14 @@
+# 13. Read a CSV file students.csv and print them with tab delimiter. Ignore first row header to print in tabular form.
+
+from csv import reader
+def pro3():
+    f = open("e:\\top5.csv","r")
+    dt = reader(f,delimiter=',')
+    headr_row=next(dt)
+    data = list(dt)
+    f.close()
+    for i in data:
+        for j in i:
+            print(j,"\t",end=" ")
+        print()
+pro3() 

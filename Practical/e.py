@@ -2,7 +2,7 @@
 
 def program5():
   with open("./Practical/MyFile.txt","r") as fl:
-       data=f1.readlines()
+    data=fl.readlines()
     cnt_lines=0
     cnt_A=0
     cnt_B=0
