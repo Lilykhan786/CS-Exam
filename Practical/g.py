@@ -7,16 +7,16 @@
   # Print next 10 characters from the current cursor position.
 
 def program7():
-    f = open("intro.txt", "r")
-    print("Cusror initial posotion.")
+    f = open("intro.txt","r")
+    print("Cusror initial position.")
     print(f.tell())
     f.seek(4,0)
-    print("Displaying valuse from 5th posotion.")
+    print("Displaying values from 5th position.")
     print(f.read(5))
     f.seek(10,0)
     print(f.tell())
-    print("Print cursor's current posotion")
+    print("Print cursor's current postion")
     print(f.seek(7,0))
-    print("Displaying next 10 characters form cursor's current postion.")
+    print("Displaying next 10 characters from cursor's current postion.")
     print(f.read(10))
 program7()
