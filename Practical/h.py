@@ -3,14 +3,14 @@
 import pickle
 rec={}
 def file_create():
-    f = open("cline.dat", "wb")
-    cno = int(input("Enter Clint ID:"))
-    cname = input("Enter Clint Name:")
+    f = open("client.dat", "wb")
+    cno = int(input("Enter Client ID:"))
+    cname = input("Enter Client Name:")
     address = input("Enter Address:")
     rec={cno:[cname,address]}
     pickle.dump(rec,f)
 def read_data():
-  f= open("cline.dat", "br")
+  f= open("client.dat", "br")
 
   print("*"*78)
   print("Data strored in file...")

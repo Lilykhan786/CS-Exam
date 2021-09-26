@@ -16,7 +16,7 @@ def program5():
         if lines[0]=='C':
             cnt_C+=1
     print("Total Number of lines are:",cnt_lines)
-    print("Total Number of lines strating with A are:",cnt_A)
-    print("Total Number of lines strating with B are:",cnt_B)
-    print("Total Number of lines strating with C are:",cnt_C)
+    print("Total Number of lines starting with A are:",cnt_A)
+    print("Total Number of lines starting with B are:",cnt_B)
+    print("Total Number of lines starting with C are:",cnt_C)
 program5()
