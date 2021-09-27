@@ -2,9 +2,9 @@
 
 from csv import reader
 def pro3():
-    f = open("e:\\top5.csv","r")
+    f = open("./students.csv","r")
     dt = reader(f,delimiter=',')
-    headr_row=next(dt)
+    header_row=next(dt)
     data = list(dt)
     f.close()
     for i in data:

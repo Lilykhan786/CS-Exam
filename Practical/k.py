@@ -2,7 +2,7 @@
 
 import pickle
 def count_records():
-    f = open("./Practical/marks.dat","rb")
+    f = open("./marks.dat","rb")
     cnt=0
     try:
         while True:

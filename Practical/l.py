@@ -2,7 +2,7 @@
 
 from csv import reader
 def pro1():
-    with open("e:\\top5.csv","r") as f:
+    with open("./top5.csv","r") as f:
         d = reader(f)
         data=list(d)
         for i in data:
