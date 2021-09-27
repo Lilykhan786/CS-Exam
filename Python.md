@@ -1,6 +1,5 @@
+# Python 
 <!-- Que - what is python? who created python? -->
-
-# Python
 Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. <br />
 It was created by **Guido van Rossum** during 1985- 1990, and was released in 1991.
 
@@ -79,6 +78,32 @@ Executes a sequence of statements multiple times and abbreviates the code that m
 
 3. **`nested loops`** -
 You can use one or more loop inside any another while, for or do..while loop.
+
+___
+
+### Built-in data types in Python used to store collections of data.
+List, Tuple, Set and Dictionary, all with different qualities and usage.
+
+1. **List**
+- Lists are used to store multiple items in a single variable.
+- Lists are created using square brackets. `[]`
+
+ 2. **Tuple**
+- Tuples are used to store multiple items in a single variable.
+- A tuple is a collection which is ordered and unchangeable.
+- Tuples are written with round brackets. `()`
+
+3. **Set**
+- Sets are used to store multiple items in a single variable.
+- A set is a collection which is both unordered and unindexed.
+- Sets are written with curly brackets. `{}`
+
+4. **Dictionary**
+- Dictionaries are used to store data values in key:value pairs.
+- A dictionary is a collection which is ordered*, changeable and does not allow duplicates.
+
+> **List** and **tuple** is an ordered collection of items. **Dictionary** is unordered collection. List and dictionary objects are mutable i.e. it is possible to add new item or delete and item from it. Tuple is an immutable object.
+
 ___
 
 ### Mutable and Immutable
@@ -96,8 +121,3 @@ Whereas, the `immutable` objects ***can not*** be changed to its value or state 
 |  unicode  |  |
 |  tuple    |  |
 
-___
-
-### List, Tuple and Dictionary
-
-**`List`** and **`tuple`** is an ordered collection of items. **`Dictionary`** is unordered collection. List and dictionary objects are mutable i.e. it is possible to add new item or delete and item from it. Tuple is an immutable object
