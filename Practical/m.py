@@ -2,7 +2,7 @@
 
 from csv import reader
 def pro3():
-    f = open("./students.csv","r")
+    f = open("./top5.csv","r")
     dt = reader(f,delimiter=',')
     header_row=next(dt)
     data = list(dt)

@@ -1,6 +1,6 @@
 # To run - import [filename]
 
-import Practical.project
+# import Practical.
 
 #_______________________________________________
 
