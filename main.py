@@ -1,6 +1,6 @@
 # To run - import [filename]
 
-# import Practical.
+import Practical.o
 
 #_______________________________________________
 
