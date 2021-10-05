@@ -12,4 +12,4 @@
 ### Important links
 - [Project Ideas](https://pythonworld.in/practical-project/project-list/)
 - [Python programs](https://www.tutorialaicsip.com/cs-xii-pra/term-1-practical-file-cs-class-12/)
-<!-- - [Practical file]() -->
+- [Project](https://docs.google.com/document/d/1cf6wVjhmO7gdVzU4FKDX-S6aHhdpuXh98LxPnSX0lK4/edit?usp=sharing)
