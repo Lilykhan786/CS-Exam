@@ -13,3 +13,7 @@
 - [Project Ideas](https://pythonworld.in/practical-project/project-list/)
 - [Python programs](https://www.tutorialaicsip.com/cs-xii-pra/term-1-practical-file-cs-class-12/)
 - [Project](https://docs.google.com/document/d/1cf6wVjhmO7gdVzU4FKDX-S6aHhdpuXh98LxPnSX0lK4/edit?usp=sharing)
+- [Sample Question Paper (2021)](http://cbseacademic.nic.in/web_material/SQP/ClassXII_2021_22/ComputerScience-SQP.pdf) / [Answers](http://cbseacademic.nic.in/web_material/SQP/ClassXII_2021_22/ComputerScience-MS.pdf)
+- [Question Bank (2021)](http://cbseacademic.nic.in/web_material/QuestionBank/ClassXII/ComputerScienceXII.pdf)
+- [12th CBSE CS playlist](https://youtu.be/f2PMfGfBOPo)
+- [Viva Questions video](https://youtu.be/SZcZnr4C-OI)
