@@ -4,9 +4,9 @@
 
 ### Files 
 
-- `Python.md` - Basic Python theory. 
-- `Practical.md` - All the py program questions for practical file.
-- `Practical` *(folder)* 15 py programs for practical file.
+- [`Python.md`](https://github.com/Lilykhan786/CS-Exam/blob/master/Python.md#python) - Basic Python theory. 
+- [`Practical.md`](https://github.com/Lilykhan786/CS-Exam/blob/master/Practical.md) - All the py program questions for practical file.
+- [`Practical`](https://github.com/Lilykhan786/CS-Exam/tree/master/Practical) *(folder)* 15 py programs for practical file.
 
 
 ### Important links
