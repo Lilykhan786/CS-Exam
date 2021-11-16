@@ -16,10 +16,11 @@ It was created by **Guido van Rossum** during 1985- 1990, and was released in 19
 <!-- Que - Can we use multi-line comments in python? if yes, then how?  -->
 
 ### Note - 
-1. Unlike other programming languages Python doesn't support multi-line comment.  <br />
+1. Comments starts with a #, and Python will ignore them:
+2. Unlike other programming languages Python doesn't support **multi-line comment**.  <br />
 But you can use `"""` for multi-line comments.
 > *(Since Python will ignore string literals that are not assigned to a variable, you can add a multiline string (triple quotes) in your code, and place your comment inside it)*
-2. 
+3. 
 ___
 
 <!-- Que - What are Tokens? List some Tokens. -->
