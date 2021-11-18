@@ -58,6 +58,19 @@ ___
 - Binary Types:	`bytes`, `bytearray`, `memoryview`
 ___
 
+### There are three numeric types in Python:
+
+- int
+- float
+- complex
+
+#### Casting in python is therefore done using constructor functions:
+
+- `int()` - constructs an integer number from an integer literal, a float literal (by removing all decimals), or a string literal (providing the string represents a whole number)
+- `float()` - constructs a float number from an integer literal, a float literal or a string literal (providing the string represents a float or an integer)
+- `str()` - constructs a string from a wide variety of data types, including strings, integer literals and float literals
+____
+
 ### Types of Operator
 Python language supports the following types of operators.
 
